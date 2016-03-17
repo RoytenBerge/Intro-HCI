@@ -10,6 +10,7 @@ import javax.swing.JPanel;
 
 public class DrawPanel extends JPanel
 {
+    // comment
     private Color              color;
     public ArrayList<Drawable> shapesList = new ArrayList<Drawable>();
     public int                 selected;
