@@ -17,7 +17,7 @@ public class DrawPanel extends JPanel
     public double              oldY;
 
     DrawPanel()
-    {// comment
+    {
         super();
         // color = Color.BLACK;
     }
